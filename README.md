@@ -14,4 +14,4 @@ Shortcut Path: The game introduces a special shortcut path that players can util
 Scorecard: At the conclusion of each race, the game presents a scorecard that provides a detailed overview of the player's performance. The scorecard may include information such as the player's race time, number of laps completed, position achieved, and any penalties incurred during the race.
 
 Game Rules:
-The uploaded file contains the game rules that players need to follow while playing the Assembly Language Grand Prix Game. It likely includes instructions for controlling the car, handling corners, and navigating the track. Additionally, it may provide details on the scoring system, penalties for collisions or off-track incidents, and any other specific gameplay mechanics.
+The uploaded file(Game Rules.txt) contains the game rules that players need to follow while playing the Assembly Language Grand Prix Game. It likely includes instructions for controlling the car, handling corners, and navigating the track. Additionally, it may provide details on the scoring system, penalties for collisions or off-track incidents, and any other specific gameplay mechanics.
